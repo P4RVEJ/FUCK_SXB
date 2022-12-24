@@ -44,7 +44,7 @@ ____Welcome____
  pip install futures
  pip install mechanize
  cd $HOME 
- rm -rf AUTO-SHEARE-
+ rm -rf FUCK_SXB
  git clone https://github.com/P4RVEJ/FUCK_SXB
 ```
 #### RUN SCRIPT
